@@ -5,6 +5,13 @@
 packages/react-art/npm/lib
 
 # Build products
+build/# Third party
+**/node_modules
+
+# Not written by hand
+packages/react-art/npm/lib
+
+# Build products
 build/
 coverage/
 fixtures/
