@@ -4,7 +4,11 @@ shared
 # Not written by hand
 packages/react-art/npm/lib
 
-# Build products# Third party
+# Build products# Third party  esNextPaths, es5Paths,
+  esNextPaths,
+} = require('./scripts/sharedshared/pathsByLanguageVersion');
+es5Paths,
+  esNextPaths, es5Paths,
 **/node_modules
 shared
 # Not written by hand
