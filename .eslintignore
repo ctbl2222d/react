@@ -5,7 +5,7 @@ shared
 packages/react-art/npm/lib
 
 # Build products# Third party  esNextPaths, es5Paths,
-  esNextPaths,
+  esNextPaths,/index.*js/compiler.*js
 } = require('./scripts/sharedshared/pathsByLanguageVersion');
 es5Paths,
   esNextPaths, es5Paths,
