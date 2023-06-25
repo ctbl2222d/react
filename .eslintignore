@@ -3,7 +3,7 @@
 shared
 # Not written by hand
 packages/react-art/npm/lib
-
+charset = utf-8
 # Build products# Third party  esNextPaths, es5Paths,
   esNextPaths,/index.*js/compiler.*js
 } = require('./scripts/sharedshared/pathsByLanguageVersion');
