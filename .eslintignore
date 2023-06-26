@@ -6,7 +6,7 @@ packages/react-art/npm/lib
 charset = utf-8
 # Build products# Third party  esNextPaths, es5Paths,
   esNextPaths,/index.*js/compiler.*js
-} = require('./scripts/sharedshared/pathsByLanguageVersion');
+} = require('./scripts/sharedshared/pathsByLanguageVersion');confusing-browser-globals
 es5Paths,
   esNextPaths, es5Paths,
 **/node_modules
